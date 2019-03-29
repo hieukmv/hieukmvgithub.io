@@ -1,0 +1,583 @@
+*{margin:0;padding: 0;}
+
+.khoi11 {
+    background: #a1b1bc;
+    text-align: center;
+}
+
+.tieudehk10 {
+    color: white;
+    margin-top: 24px;
+}
+
+.khoi10 {
+    background: #2c3e50;
+    margin-top: -89px;
+}
+
+.kh10h1 {
+    text-align: center;
+}
+
+hr {
+}
+
+.vach10 {
+    width: 57px;
+    background: aqua;
+    height: 3px;
+    border-radius: 2px;
+    margin: auto;
+}
+
+.tonnho {
+    display: flex;
+    width: 120px;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 79px;
+}
+
+.ron {
+    width: 15px;
+    height: 15px;
+    background: #2c3e50;
+    border-radius: 50%;
+}
+
+.ron2 {
+    background: #07c8f6;
+}
+
+
+
+.khoi9 {
+    margin-top: 100px;
+    height: 800px;
+}
+
+.motakh8 {
+}
+
+.nutkh8 {
+    padding: 3px 24px;
+    border-radius: 5px;
+}
+
+.nutcam {
+    border: 2px solid#f12008;
+    color: #f12008;
+    text-transform: uppercase;
+    font-weight: 600;
+    background: none;
+}
+
+.nutkh9 {
+    border: 2px solid#2c3e50;
+    color: #5c5c66;
+}
+
+.nuttim {
+    border: 2px solid#7108f8;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+    background: #7108f8;
+}
+
+.nutxanh {
+    border: 2px solid#21c2f8;
+    color: #21c2f8;
+    text-transform: uppercase;
+    font-weight: 600;
+    background: none;
+}
+
+.kh8CAM {
+    font-size: 19px;
+    color: #f12008;
+}
+
+.kh8TIM {
+    font-size: 19px;
+    color: #7108f8;
+}
+
+.kh8xanh {
+    color: #21c2f8;
+    font-size: 19px;
+}
+
+.motkh8 {
+    font-weight: 500;
+    margin-bottom: 29px;
+}
+
+.kh8tieunhot3 {
+    background: #f12008;
+}
+
+.kh8tieunhot2 {
+    background: #7108f8;
+}
+
+.kh8tieunhot1 {
+    background: #21c2f8;
+}
+
+
+.tieudekh8 {
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 76px;
+    padding-bottom: 50px;
+    padding: 38px 64px;
+    margin: 37px 56px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: white;
+}
+
+.khoikh8 {text-align: center;width: 342px;height: 593px;background: white;border-radius: 5px;}
+
+.kh8chu {padding-top: 65px;}
+
+.khoi8 {
+    background: #2c3e50;
+    margin-top: -49px;
+    height: 950px;
+}
+
+.khoi7 {
+    margin-bottom: 100px;
+}
+
+.mota7 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.tieude7 {
+    font-weight: 700;
+    color: #2c3e50;
+}
+
+.thanhden6 {
+    width: 97%;
+}
+
+.thanhden5 {
+    width: 85%;
+}
+
+.thanhden4 {
+    width: 80%;
+}
+
+.thanhden3 {
+    width: 82%;
+}
+
+.thanhden1 {
+    width: 90%;
+}
+
+.thanhden {
+    height: 100%;
+    background: #08f8ee;
+    border-radius: 2px;
+}
+
+.thanhden2 {
+    width: 75%;
+}
+
+.bg {
+    height: 30px;
+    border: 2px solid#b4b3b3;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.kynang {text-transform: uppercase;font-size: 14px;font-weight: 500;color: #2c3e50;}
+
+.text {display: flex;justify-content: space-between;}
+
+.khoitieude7 {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 403px;
+    font-family: 'Lato', sans-serif;
+}
+
+.mota7 {
+    color: #9f9c9cfa;
+    text-transform: uppercase;
+}
+
+.khoikh72 {
+    margin-top: 200px;
+    margin-left: -343px;
+    width: 450px;
+}
+
+.khoikh72 {
+}
+
+.khoikh71 {
+}
+
+.khoikh71 {
+    margin-left: -730px;
+    margin-top: 200px;
+    width: 450px;
+}
+
+.kh62 {
+    border: 2px solid;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.kh61 {
+    margin-right: 5px;
+    background: #00fdff;
+    border-radius: 10px;
+    border: 2px solid#00fdff;
+}
+
+.icon1 {
+    padding: 11px 7px;
+    font-size: 16px;
+}
+
+.dekh6 {
+    color: #00fdff;
+    font-family: 'Lato', sans-serif;
+}
+
+.iconkh6 {
+    color: white;
+    display: flex;
+    margin-left: 498px;
+}
+
+.chukh6 {
+    color: white;
+    text-transform: uppercase;
+    font-size: 24px;
+    margin-top: 100px;
+}
+
+.khoi6 {
+    background: #2c3e50;
+    height: 500px;
+    text-align: center;
+    margin-top: -50px;
+}
+
+.chukh5 {
+    font-family: Myriad Pro;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #2c3e50;
+}
+
+.icon {
+    margin-bottom: 20px;
+}
+
+i.fa.fa-check {
+    padding: 5px;
+    border: 1px;
+    background: #07fafa;
+    border-radius: 50%;
+    font-size: 10px;
+    color: white;
+}
+
+i.fa.fa-shopping-bag {
+}
+
+.iconkh5 {
+    border: 2px solid#2c3e50;
+    padding: 15px;
+    background: none;
+    border-radius: 50%;
+    font-size: 18px;
+    color: #2c3e50;
+}
+
+.speciality {
+    list-style: none;
+    /* margin-left: 16px; */
+    color: var(--gr);
+    font-size: 14px;
+}
+
+.khoi5 {
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+.khoithu1 {
+    width: 335px;
+    height: 343px;
+}
+
+.kh4td {
+    text-align: center;
+}
+
+.tieude4 {
+    font-size: 24px;
+    line-height: 200px;
+    color: white;
+    margin-right: 58px;
+    margin-left: 445px;
+}
+
+.khoitotrong4 {
+    display: flex;
+    /* justify-content: space-evenly; */
+    background: #08e3f4;
+    width: 1522px;
+    height: 200px;
+    margin-left: -208px;
+}
+
+.khoi4 {
+    margin-top: 50px;
+    /* text-align: center; */
+}
+
+.nut2 {
+    background: #21c2f8!important;
+}
+
+.kh4 {}
+
+.awesome {
+    color: white;
+    text-transform: uppercase;
+}
+
+.kh4 {
+    margin-left: -192px;
+    background: #2f364f;
+    padding: 10px;
+    color:white;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.nu1 {background: #00f5c5;}
+
+
+
+.chu {
+    margin-left: 581px;
+    margin-top: 33px;
+}
+
+.kh3 {
+}
+
+.khoi3 {
+    background: #2c3e50;
+    margin-top: -39px;
+    /* height: 650px; */
+}
+
+.khoi3.d-flex.align-items-center.text.center {
+    height: 630px;
+}
+
+.khoi3.nut1 {
+    padding: 0px 120px;
+    background: #252b3f;
+    border: none;
+    margin-bottom: 17px;
+    border-radius: 5px;
+}
+
+.nut.nut1 {
+    background: none;
+    padding: 9px 15px;
+    border: 3px solid#2c3e50;
+    font-size: 14px;
+    border-radius: 5px;
+    margin-bottom: 78px;
+    margin-top: 16px;
+}
+
+.nut5 {
+}
+
+.nut5 {
+    background: none;
+    padding: 9px 42px;
+    color: white;
+    border: 3px solid;
+    margin-top: 80px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.mota1 {
+    font-size: 14px;
+    color: #d9dfe3;
+    line-height: 27px;
+    margin-bottom: 30px;
+}
+
+.mota3 {text-transform: uppercase;font-size: 11px;margin-bottom: 100px;}
+
+.anh1 {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: 11px solid#e5dede;
+    margin-bottom: 30px;
+}
+
+.tieude1 {
+    margin-bottom: 50px;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+}
+
+.khtieude8 {
+    color: white;
+}
+
+.khtieude8 {}
+
+.khtieuf10 {
+    padding-top: 120px;
+    padding-bottom: 50px;
+}
+
+.khtieude8 {
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+
+.trang {
+    color: white;
+}
+
+.khoi2 {
+    text-align: center;
+    width: 942px;
+    margin-left: 290px;
+    margin-top: 68px;
+}
+
+.tieude1.tieude2 {
+    font-size: 18px;
+    color: #2c3e50;
+    margin-bottom: 30px;
+}
+
+i.fa.fa-lightbulb {
+    height: 100px;
+    width: 100px;
+    background: #21c2f8;
+    border: 15px solid#fff;
+    border-radius: 50%;
+    line-height: 72px;
+    font-size: 23px;
+    color: white;
+}
+
+.tron {
+    margin-top: -49px;
+    text-align: center;
+}
+
+.mota {
+    font-family: Myriad Pro;
+    font-weight: 100;
+    font-size: 18px;
+}
+
+span.tieudenho {
+    font-size: 30px;
+}
+
+.tieudeto {
+    font-size: 48px;
+    line-height: 53px;
+    font-family: 'Lato', sans-serif;
+}
+
+.xanh {
+    color: #15f8df;
+}
+
+.tieuchu {
+    margin-left: 419px;
+}
+
+.tieudenho {
+    margin-top: 218px;
+    font-weight: 400;
+}
+
+.khoi1 {background-image: url(images/anh1.png);height: 700px;color: white;}
+
+.chulogo {
+    color: #2c3e50;
+}
+
+i {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.iconkh10 {
+    width: 60px;
+    height: 60px;
+    background: white;
+    border: 2px solid#958e8e;
+    border-radius: 50%;
+    line-height: 60px !important;
+    color: #039dfa;
+}
+
+.navigation {
+    margin-top: 28px;
+    margin-left: 114px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.menuduoi1 {
+    float: left;
+    font-size: 14px;
+    margin-left: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-top: 29px;
+}
+
+.container {
+    /* padding-right: 15px; */
+}
+
+.mangxahoi {
+    color: white;
+    text-align: center;
+}
+
+.topbar {
+    height: 50Px;
+    background: #2c3e50;
+}
